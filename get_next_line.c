@@ -6,7 +6,7 @@
 /*   By: fschmid <fschmid@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/21 14:46:17 by fschmid           #+#    #+#             */
-/*   Updated: 2022/10/25 11:27:19 by fschmid          ###   ########.fr       */
+/*   Updated: 2022/10/25 11:56:16 by fschmid          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -104,4 +104,3 @@ char	*get_next_line(int fd)
 	save = ft_save(save);
 	return (line);
 }
-
